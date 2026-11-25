@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "weekStart": "2026-11-23",
-  "publishedAt": "2026-11-25T11:14:16.757000+08:00",
+  "publishedAt": "2026-11-25T11:29:40+08:00",
   "rates": {
     "kakobuy": {
       "USD": 6.145624582498
     },
     "lovegobuy": {
-      "USD": null
+      "USD": 6.09756097561
     },
     "usfans": {
       "AUD": 3.965107057891,
